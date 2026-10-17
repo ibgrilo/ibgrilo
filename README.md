@@ -16,7 +16,7 @@ Sou desenvolvedor full-stack e estudante de Engenharia de Computação na Univer
 
 - 🏛️ Desenvolvo o sistema de gestão da Pró-Reitoria de Planejamento e Administração da UEMA, com mais de 400 commits.
 - 📱 Crio apps de saúde: dados de sono, informação veterinária e visão computacional.
-- ⚖️ Me interesso por matemática e por viés algorítmico.
+- ⚖️ Me interesso por matemática e por algoritmos de aprendizado de máquina.
 
 ## 🧠 Stack Tecnológica
 
